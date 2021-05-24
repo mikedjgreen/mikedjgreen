@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Mike
 ---
- ![Mike](img/cheap_model.jpg)  
+ ![Mike](img/self_portrait_2019_2.jpg)
 ---
 ## Links
 

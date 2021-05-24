@@ -1,5 +1,7 @@
 # Hi there 👋 I'm Mike
-
+---
+ ![Mike](img/cheap_model.jpg)  
+---
 ## Links
 
 - [LinkedIn](https://www.linkedin.com/in/mdjgreen/)

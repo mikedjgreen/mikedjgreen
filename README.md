@@ -1,7 +1,9 @@
-### Hi there 👋 I'm Mike
+# Hi there 👋 I'm Mike
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mdjgreen/)
-- 
+## Links
+
+- [LinkedIn](https://www.linkedin.com/in/mdjgreen/)
+- [Facebook](https://www.facebook.com/m.d.j.green)
 <!--
 **mikedjgreen/mikedjgreen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

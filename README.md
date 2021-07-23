@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mikedjgreen&repo=github-readme-stats)](https://github.com/mikedjgreen/github-readme-stats)
 
-[![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikedjgreen)](https://github.com/mikedjgreen/github-readme-stats)
+[![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikedjgreen&show_icons=true&show_owner=true)](https://github.com/mikedjgreen/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikedjgreen&langs_count=6)](https://github.com/mikedjgreen/github-readme-stats)
+
